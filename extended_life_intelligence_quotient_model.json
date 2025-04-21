@@ -1,92 +1,86 @@
-[
-    {
-        "code": "IQ",
-        "name": "Intellectual Quotient",
-        "description": "Logical reasoning, systems thinking, abstract modeling.",
-        "weight": 10
+{
+    "model_name": "Life Intelligence Quotient (LIQ)",
+    "scaling": {
+        "mean": 100,
+        "standard_deviation": 15,
+        "life_gifted_threshold": 130,
+        "low_threshold": 85
     },
-    {
-        "code": "EQ",
-        "name": "Emotional Quotient",
-        "description": "Emotional awareness, regulation, empathy, and integration.",
-        "weight": 10
-    },
-    {
-        "code": "RQ",
-        "name": "Relational Quotient",
-        "description": "Capacity for emotional connection, communication, and healthy bonding.",
-        "weight": 8
-    },
-    {
-        "code": "CQ",
-        "name": "Cultural Quotient",
-        "description": "Ability to navigate diverse values, norms, identity, and cultural fluency.",
-        "weight": 7
-    },
-    {
-        "code": "SQ",
-        "name": "Spiritual Quotient",
-        "description": "Awareness of ego, presence, surrender, and transcendence.",
-        "weight": 10
-    },
-    {
-        "code": "PQ",
-        "name": "Physical Quotient",
-        "description": "Embodiment, health awareness, energy regulation, fitness.",
-        "weight": 7
-    },
-    {
-        "code": "AX",
-        "name": "Alignment Execution Quotient",
-        "description": "Acting in sync with values and purpose consistently and sustainably.",
-        "weight": 7
-    },
-    {
-        "code": "AQ",
-        "name": "Adaptability Quotient",
-        "description": "Ability to navigate uncertainty, pivot, and evolve.",
-        "weight": 7
-    },
-    {
-        "code": "FQ",
-        "name": "Financial Quotient",
-        "description": "Ability to manage, grow, and apply resources wisely.",
-        "weight": 7
-    },
-    {
-        "code": "RQ2",
-        "name": "Resilience Quotient",
-        "description": "Emotional and mental bounce-back capacity from challenges.",
-        "weight": 6
-    },
-    {
-        "code": "HQ",
-        "name": "Healing Quotient",
-        "description": "Ability to process trauma, shadow, and evolve emotionally.",
-        "weight": 6
-    },
-    {
-        "code": "CQ2",
-        "name": "Creative Quotient",
-        "description": "Imagination, innovation, originality, and artistic expression.",
-        "weight": 6
-    },
-    {
-        "code": "MQ",
-        "name": "Maturity Quotient",
-        "description": "Ethical responsibility, grounded leadership, wise self-regulation.",
-        "weight": 6
-    },
-    {
-        "code": "XQ",
-        "name": "Existential Quotient",
-        "description": "Awareness of mortality, legacy, and life meaning.",
-        "weight": 6
-    },
-    {
-        "code": "KQ",
-        "name": "Kinetic Quotient",
-        "description": "Somatic intelligence, embodied action, rhythm, and movement-based awareness.",
-        "weight": 4
-    }
-]
+    "dimensions": [
+        {
+            "code": "IQ",
+            "name": "Cognitive Intelligence",
+            "description": "Problem-solving, analytical thinking, and information processing."
+        },
+        {
+            "code": "EQ",
+            "name": "Emotional Intelligence",
+            "description": "Self-awareness, emotional regulation, empathy, and interpersonal effectiveness."
+        },
+        {
+            "code": "RQ",
+            "name": "Relational Intelligence",
+            "description": "Depth of connection, attunement, reciprocity, and nurturing healthy relationships."
+        },
+        {
+            "code": "CQ",
+            "name": "Communication Intelligence",
+            "description": "Clarity, tone, active listening, storytelling, and nuanced expression."
+        },
+        {
+            "code": "SQ",
+            "name": "Spiritual Intelligence",
+            "description": "Inner peace, presence, non-reactivity, and connection to something beyond the self."
+        },
+        {
+            "code": "PQ",
+            "name": "Physical Intelligence",
+            "description": "Body awareness, health maintenance, fitness, recovery, and longevity practices."
+        },
+        {
+            "code": "AX",
+            "name": "Aesthetic Intelligence",
+            "description": "Sensitivity to beauty, harmony, visual-spatial awareness, and environment design."
+        },
+        {
+            "code": "AQ",
+            "name": "Adversity Quotient",
+            "description": "Resilience, grit, adaptability, and the ability to grow from setbacks."
+        },
+        {
+            "code": "FQ",
+            "name": "Financial Intelligence",
+            "description": "Money management, investing, risk-taking, and long-term financial planning."
+        },
+        {
+            "code": "RQ2",
+            "name": "Romantic Intelligence",
+            "description": "Intimacy, attraction, polarity, sexuality, and romantic compatibility awareness."
+        },
+        {
+            "code": "HQ",
+            "name": "Householder Intelligence",
+            "description": "Ability to run a functional, emotionally warm, and physically organized household."
+        },
+        {
+            "code": "CQ2",
+            "name": "Cultural Intelligence",
+            "description": "Openness to diverse perspectives, cross-cultural fluency, and respect for traditions."
+        },
+        {
+            "code": "MQ",
+            "name": "Meta Intelligence",
+            "description": "Awareness of one's own mind, beliefs, ego patterns, and psychological defense mechanisms."
+        },
+        {
+            "code": "XQ",
+            "name": "Execution Intelligence",
+            "description": "Getting things done consistently and effectively, converting vision to reality."
+        },
+        {
+            "code": "KQ",
+            "name": "Kindness Quotient",
+            "description": "Capacity to give without expectation, treat others with grace, and act from compassion."
+        }
+    ]
+}
