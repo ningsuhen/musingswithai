@@ -1,0 +1,92 @@
+[
+    {
+        "code": "IQ",
+        "name": "Intellectual Quotient",
+        "description": "Logical reasoning, systems thinking, abstract modeling.",
+        "weight": 10
+    },
+    {
+        "code": "EQ",
+        "name": "Emotional Quotient",
+        "description": "Emotional awareness, regulation, empathy, and integration.",
+        "weight": 10
+    },
+    {
+        "code": "RQ",
+        "name": "Relational Quotient",
+        "description": "Capacity for emotional connection, communication, and healthy bonding.",
+        "weight": 8
+    },
+    {
+        "code": "CQ",
+        "name": "Cultural Quotient",
+        "description": "Ability to navigate diverse values, norms, identity, and cultural fluency.",
+        "weight": 7
+    },
+    {
+        "code": "SQ",
+        "name": "Spiritual Quotient",
+        "description": "Awareness of ego, presence, surrender, and transcendence.",
+        "weight": 10
+    },
+    {
+        "code": "PQ",
+        "name": "Physical Quotient",
+        "description": "Embodiment, health awareness, energy regulation, fitness.",
+        "weight": 7
+    },
+    {
+        "code": "AX",
+        "name": "Alignment Execution Quotient",
+        "description": "Acting in sync with values and purpose consistently and sustainably.",
+        "weight": 7
+    },
+    {
+        "code": "AQ",
+        "name": "Adaptability Quotient",
+        "description": "Ability to navigate uncertainty, pivot, and evolve.",
+        "weight": 7
+    },
+    {
+        "code": "FQ",
+        "name": "Financial Quotient",
+        "description": "Ability to manage, grow, and apply resources wisely.",
+        "weight": 7
+    },
+    {
+        "code": "RQ2",
+        "name": "Resilience Quotient",
+        "description": "Emotional and mental bounce-back capacity from challenges.",
+        "weight": 6
+    },
+    {
+        "code": "HQ",
+        "name": "Healing Quotient",
+        "description": "Ability to process trauma, shadow, and evolve emotionally.",
+        "weight": 6
+    },
+    {
+        "code": "CQ2",
+        "name": "Creative Quotient",
+        "description": "Imagination, innovation, originality, and artistic expression.",
+        "weight": 6
+    },
+    {
+        "code": "MQ",
+        "name": "Maturity Quotient",
+        "description": "Ethical responsibility, grounded leadership, wise self-regulation.",
+        "weight": 6
+    },
+    {
+        "code": "XQ",
+        "name": "Existential Quotient",
+        "description": "Awareness of mortality, legacy, and life meaning.",
+        "weight": 6
+    },
+    {
+        "code": "KQ",
+        "name": "Kinetic Quotient",
+        "description": "Somatic intelligence, embodied action, rhythm, and movement-based awareness.",
+        "weight": 4
+    }
+]

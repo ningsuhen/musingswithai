@@ -1,0 +1,75 @@
+{
+    "matrixes": [
+        {
+            "name": "Survival Matrix",
+            "description": "The drive to meet basic needs and feel secure, often leading to fear-based decisions and scarcity mindset.",
+            "archetypes": [
+                "Scrambler",
+                "Codependent",
+                "Overachiever",
+                "Victim"
+            ]
+        },
+        {
+            "name": "Status Matrix",
+            "description": "The need to feel worthy through comparison, achievement, or validation from others.",
+            "archetypes": [
+                "Performer",
+                "Conformer",
+                "Prestige-Seeker",
+                "Image Crafter"
+            ]
+        },
+        {
+            "name": "Logic Matrix",
+            "description": "The belief that intellect and structure alone can solve life and avoid vulnerability.",
+            "archetypes": [
+                "Engineer",
+                "Strategist",
+                "Control Seeker",
+                "Detached Observer"
+            ]
+        },
+        {
+            "name": "Emotion Matrix",
+            "description": "The tendency to be overwhelmed or defined by emotions, attachment, and relational drama.",
+            "archetypes": [
+                "Overfeeler",
+                "Fixer",
+                "Romantic",
+                "Anxious Heart"
+            ]
+        },
+        {
+            "name": "Pleasure Matrix",
+            "description": "The escape into stimulation, indulgence, or dopamine-seeking to avoid discomfort.",
+            "archetypes": [
+                "Escapist",
+                "Addict",
+                "Impulse Seeker",
+                "Hedonist"
+            ]
+        },
+        {
+            "name": "Independence Matrix",
+            "description": "The illusion of self-sufficiency and rejection of vulnerability, community, or trust.",
+            "archetypes": [
+                "Lone Wolf",
+                "Hyperachiever",
+                "Self-Reliant Rebel",
+                "Avoidant"
+            ]
+        },
+        {
+            "name": "Purpose Matrix",
+            "description": "The identification with mission or meaning as a way to feel worthy, often with martyrdom or over-control.",
+            "archetypes": [
+                "Crusader",
+                "Savior",
+                "Builder",
+                "Burned Out Visionary"
+            ]
+        }
+    ],
+    "definition": "The 7 Matrixes are psycho-spiritual dimensions that represent illusions or identity traps modern individuals unconsciously live inside. Escaping the Matrix means awakening to a state of wholeness where action flows from presence, not programming."
+}

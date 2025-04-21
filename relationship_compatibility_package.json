@@ -1,0 +1,60 @@
+{
+    "definition": "A framework that complements the 7 Matrixes by assessing key dimensions of relational compatibility across emotional, physical, psychological, and spiritual layers.",
+    "domains": [
+        {
+            "code": "RC",
+            "name": "Resonance",
+            "description": "The emotional and energetic alignment you feel with someone, beyond logic or shared interests."
+        },
+        {
+            "code": "GR",
+            "name": "Groundedness",
+            "description": "The ability to stay emotionally stable and centered, especially in conflict or emotional triggers."
+        },
+        {
+            "code": "CN",
+            "name": "Confidence",
+            "description": "Inner security, self-trust, and the ability to express needs and take up space without ego."
+        },
+        {
+            "code": "LK",
+            "name": "Looks / Attraction",
+            "description": "Physical attraction and chemistry, including how visually and energetically appealing someone feels to you."
+        },
+        {
+            "code": "PC",
+            "name": "Physical Compatibility",
+            "description": "How well your touch, rhythm, intimacy, and physical presence align with each other."
+        },
+        {
+            "code": "RM",
+            "name": "Relational Maturity",
+            "description": "Capacity for mutual growth, healthy communication, and emotional responsibility in a partnership."
+        },
+        {
+            "code": "TI",
+            "name": "Timing",
+            "description": "Life alignment \u2014 whether you\u2019re both in the right season of life to build something meaningful together."
+        },
+        {
+            "code": "CF",
+            "name": "Cultural Fit",
+            "description": "Shared worldview, background, lifestyle, and ability to respect and integrate differences."
+        },
+        {
+            "code": "SA",
+            "name": "Sexual Alignment",
+            "description": "Desire, polarity, and preferences in sexual connection \u2014 not just frequency but depth and play."
+        },
+        {
+            "code": "NS",
+            "name": "Nervous System Compatibility",
+            "description": "How regulated you feel around the other person \u2014 calm, safe, energized, or dysregulated."
+        },
+        {
+            "code": "SH",
+            "name": "Shadow Dynamics",
+            "description": "Unconscious triggers and projections \u2014 whether your wounds complement or compound each other."
+        }
+    ]
+}
